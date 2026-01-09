@@ -1,6 +1,6 @@
 # Self-Adjusting Linked List in C++
 
-A **Self-Adjusting Linked List** implemented in C++ that automatically moves accessed elements to the front of the list. This improves the efficiency of repeated searches for frequently accessed items. The program provides an interactive menu to insert, find, and display elements.
+A **Self-Adjusting Linked List** implemented in C++ that automatically moves accessed elements to the front of the list. This improves the efficiency of repeated searches for frequently accessed items. The program provides an interactive menu to insert, find, and display elements. This program shows my knowledge of C++ such as Classes, structs, pointers, dynamic memory, constructors/destructors,Linked lists (a common data structure) and Implements a slightly advanced concept which is a self-adjusting list (like a “move-to-front” heuristic), which is a neat twist on a normal linked list.
 
 ---
 
