@@ -27,31 +27,7 @@ This behavior ensures that frequently accessed elements are quicker to reach, de
 ---
 ## Example Usage
 
-1.Insert into the list
-
-2.Find value
-
-3.Display elements in the list
-
-4.Exit
-
-Which number would you like to perform?: 1
-Enter value you want to insert: 10
-New value has been inserted!
-
-Which number would you like to perform?: 1
-Enter value you want to insert: 20
-New value has been inserted!
-
-Which number would you like to perform?: 3
-List: 20 10
-
-Which number would you like to perform?: 2
-Enter the value you want to find: 10
-Value '10' found in the list
-
-Which number would you like to perform?: 3
-List: 10 20
+<img width="737" height="663" alt="image" src="https://github.com/user-attachments/assets/841cad5c-b326-4fb8-af21-6b0239637b02" />
 
 ---
 
